@@ -1,3 +1,24 @@
+## korg_nanokontrol (jade) - 0.1.2-0
+
+The packages in the `korg_nanokontrol` repository were released into the `jade` distro by running `/usr/bin/bloom-release -t jade -r jade -n korg_nanokontrol` on `Fri, 13 Feb 2015 08:16:17 -0000`
+
+The `korg_nanokontrol` package was released.
+
+Version of package(s) in repository `korg_nanokontrol`:
+- upstream repository: https://github.com/ros-drivers/korg_nanokontrol.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.18`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.1`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## korg_nanokontrol (indigo) - 0.1.2-0
 
 The packages in the `korg_nanokontrol` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo korg_nanokontrol` on `Mon, 28 Jul 2014 21:10:23 -0000`
